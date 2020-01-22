@@ -12,13 +12,13 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1579636430,,"wq"
+|2,0,1579705383,,"wq"
+:q!
+|2,0,1579705335,,"q!"
 :q
-|2,0,1579628504,,"q"
+|2,0,1579705331,,"q"
 :w
 |2,0,1579296597,,"w"
-:q!
-|2,0,1579293226,,"q!"
 
 # Search String History (newest to oldest):
 
@@ -31,36 +31,78 @@
 # Registers:
 
 # File marks:
-'0  4  19  ~/playground.sh
-|4,48,4,19,1579636430,"~/playground.sh"
-'1  1  44  ~/loopthrough.sh
-|4,49,1,44,1579635753,"~/loopthrough.sh"
-'2  1  76  ~/loopthrough.sh
-|4,50,1,76,1579635655,"~/loopthrough.sh"
-'3  1  119  ~/loopthrough.sh
-|4,51,1,119,1579635227,"~/loopthrough.sh"
-'4  1  119  ~/loopthrough.sh
-|4,52,1,119,1579635227,"~/loopthrough.sh"
-'5  1  97  ~/loopthrough.sh
-|4,53,1,97,1579634841,"~/loopthrough.sh"
-'6  1  97  ~/loopthrough.sh
-|4,54,1,97,1579634841,"~/loopthrough.sh"
-'7  1  97  ~/loopthrough.sh
-|4,55,1,97,1579634841,"~/loopthrough.sh"
+'0  4  4  ~/.gitignore
+|4,48,4,4,1579705383,"~/.gitignore"
+'1  1  0  ~/.gitignore
+|4,49,1,0,1579705335,"~/.gitignore"
+'2  1  0  ~/.gitignore
+|4,50,1,0,1579705335,"~/.gitignore"
+'3  4  19  ~/playground.sh
+|4,51,4,19,1579636430,"~/playground.sh"
+'4  1  44  ~/loopthrough.sh
+|4,52,1,44,1579635753,"~/loopthrough.sh"
+'5  1  76  ~/loopthrough.sh
+|4,53,1,76,1579635655,"~/loopthrough.sh"
+'6  1  119  ~/loopthrough.sh
+|4,54,1,119,1579635227,"~/loopthrough.sh"
+'7  1  119  ~/loopthrough.sh
+|4,55,1,119,1579635227,"~/loopthrough.sh"
 '8  1  97  ~/loopthrough.sh
 |4,56,1,97,1579634841,"~/loopthrough.sh"
-'9  2929  0  ~/nyse-composite-historical-data
-|4,57,2929,0,1579628504,"~/nyse-composite-historical-data"
+'9  1  97  ~/loopthrough.sh
+|4,57,1,97,1579634841,"~/loopthrough.sh"
 
 # Jumplist (newest first):
+-'  4  4  ~/.gitignore
+|4,39,4,4,1579705383,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1579705348,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1579705335,"~/.gitignore"
 -'  4  19  ~/playground.sh
 |4,39,4,19,1579636430,"~/playground.sh"
+-'  4  19  ~/playground.sh
+|4,39,4,19,1579636430,"~/playground.sh"
+-'  4  19  ~/playground.sh
+|4,39,4,19,1579636430,"~/playground.sh"
+-'  4  19  ~/playground.sh
+|4,39,4,19,1579636430,"~/playground.sh"
+-'  8  3  ~/playground.sh
+|4,39,8,3,1579636420,"~/playground.sh"
+-'  8  3  ~/playground.sh
+|4,39,8,3,1579636420,"~/playground.sh"
+-'  8  3  ~/playground.sh
+|4,39,8,3,1579636420,"~/playground.sh"
 -'  8  3  ~/playground.sh
 |4,39,8,3,1579636420,"~/playground.sh"
 -'  1  44  ~/loopthrough.sh
 |4,39,1,44,1579635753,"~/loopthrough.sh"
 -'  1  44  ~/loopthrough.sh
 |4,39,1,44,1579635753,"~/loopthrough.sh"
+-'  1  44  ~/loopthrough.sh
+|4,39,1,44,1579635753,"~/loopthrough.sh"
+-'  1  44  ~/loopthrough.sh
+|4,39,1,44,1579635753,"~/loopthrough.sh"
+-'  1  44  ~/loopthrough.sh
+|4,39,1,44,1579635753,"~/loopthrough.sh"
+-'  1  44  ~/loopthrough.sh
+|4,39,1,44,1579635753,"~/loopthrough.sh"
+-'  1  44  ~/loopthrough.sh
+|4,39,1,44,1579635753,"~/loopthrough.sh"
+-'  1  44  ~/loopthrough.sh
+|4,39,1,44,1579635753,"~/loopthrough.sh"
+-'  1  76  ~/loopthrough.sh
+|4,39,1,76,1579635655,"~/loopthrough.sh"
+-'  1  76  ~/loopthrough.sh
+|4,39,1,76,1579635655,"~/loopthrough.sh"
+-'  1  76  ~/loopthrough.sh
+|4,39,1,76,1579635655,"~/loopthrough.sh"
+-'  1  76  ~/loopthrough.sh
+|4,39,1,76,1579635655,"~/loopthrough.sh"
+-'  1  76  ~/loopthrough.sh
+|4,39,1,76,1579635655,"~/loopthrough.sh"
+-'  1  76  ~/loopthrough.sh
+|4,39,1,76,1579635655,"~/loopthrough.sh"
 -'  1  76  ~/loopthrough.sh
 |4,39,1,76,1579635655,"~/loopthrough.sh"
 -'  1  76  ~/loopthrough.sh
@@ -69,6 +111,30 @@
 |4,39,1,119,1579635227,"~/loopthrough.sh"
 -'  1  119  ~/loopthrough.sh
 |4,39,1,119,1579635227,"~/loopthrough.sh"
+-'  1  119  ~/loopthrough.sh
+|4,39,1,119,1579635227,"~/loopthrough.sh"
+-'  1  119  ~/loopthrough.sh
+|4,39,1,119,1579635227,"~/loopthrough.sh"
+-'  1  119  ~/loopthrough.sh
+|4,39,1,119,1579635227,"~/loopthrough.sh"
+-'  1  119  ~/loopthrough.sh
+|4,39,1,119,1579635227,"~/loopthrough.sh"
+-'  1  119  ~/loopthrough.sh
+|4,39,1,119,1579635227,"~/loopthrough.sh"
+-'  1  119  ~/loopthrough.sh
+|4,39,1,119,1579635227,"~/loopthrough.sh"
+-'  1  97  ~/loopthrough.sh
+|4,39,1,97,1579634841,"~/loopthrough.sh"
+-'  1  97  ~/loopthrough.sh
+|4,39,1,97,1579634841,"~/loopthrough.sh"
+-'  1  97  ~/loopthrough.sh
+|4,39,1,97,1579634841,"~/loopthrough.sh"
+-'  1  97  ~/loopthrough.sh
+|4,39,1,97,1579634841,"~/loopthrough.sh"
+-'  1  97  ~/loopthrough.sh
+|4,39,1,97,1579634841,"~/loopthrough.sh"
+-'  1  97  ~/loopthrough.sh
+|4,39,1,97,1579634841,"~/loopthrough.sh"
 -'  1  97  ~/loopthrough.sh
 |4,39,1,97,1579634841,"~/loopthrough.sh"
 -'  1  97  ~/loopthrough.sh
@@ -137,124 +203,66 @@
 |4,39,2929,0,1579628504,"~/nyse-composite-historical-data"
 -'  2929  0  ~/nyse-composite-historical-data
 |4,39,2929,0,1579628504,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628426,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628426,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628426,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628426,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628426,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628426,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628426,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628426,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628426,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628426,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628426,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628426,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628426,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628426,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628426,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628426,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628426,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628426,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628426,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628426,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628426,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628426,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628426,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628426,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628426,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628426,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628426,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628426,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628426,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628426,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628426,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628426,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628254,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628254,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628254,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628254,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628254,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628254,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628254,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628254,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628254,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628254,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628254,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628254,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628254,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628254,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628254,"~/nyse-composite-historical-data"
--'  2320  0  ~/nyse-composite-historical-data
-|4,39,2320,0,1579628254,"~/nyse-composite-historical-data"
--'  1  0  ~/nyse-composite-historical-data
-|4,39,1,0,1579627925,"~/nyse-composite-historical-data"
--'  1  0  ~/nyse-composite-historical-data
-|4,39,1,0,1579627925,"~/nyse-composite-historical-data"
--'  1  0  ~/nyse-composite-historical-data
-|4,39,1,0,1579627925,"~/nyse-composite-historical-data"
--'  1  0  ~/nyse-composite-historical-data
-|4,39,1,0,1579627925,"~/nyse-composite-historical-data"
--'  1  0  ~/nyse-composite-historical-data
-|4,39,1,0,1579627925,"~/nyse-composite-historical-data"
--'  1  0  ~/nyse-composite-historical-data
-|4,39,1,0,1579627925,"~/nyse-composite-historical-data"
--'  1  0  ~/nyse-composite-historical-data
-|4,39,1,0,1579627925,"~/nyse-composite-historical-data"
--'  1  0  ~/nyse-composite-historical-data
-|4,39,1,0,1579627925,"~/nyse-composite-historical-data"
--'  1  0  ~/nyse-composite-historical-data
-|4,39,1,0,1579627925,"~/nyse-composite-historical-data"
--'  1  0  ~/nyse-composite-historical-data
-|4,39,1,0,1579627925,"~/nyse-composite-historical-data"
+-'  2929  0  ~/nyse-composite-historical-data
+|4,39,2929,0,1579628504,"~/nyse-composite-historical-data"
+-'  2929  0  ~/nyse-composite-historical-data
+|4,39,2929,0,1579628504,"~/nyse-composite-historical-data"
+-'  2929  0  ~/nyse-composite-historical-data
+|4,39,2929,0,1579628504,"~/nyse-composite-historical-data"
+-'  2929  0  ~/nyse-composite-historical-data
+|4,39,2929,0,1579628504,"~/nyse-composite-historical-data"
+-'  2929  0  ~/nyse-composite-historical-data
+|4,39,2929,0,1579628504,"~/nyse-composite-historical-data"
+-'  2929  0  ~/nyse-composite-historical-data
+|4,39,2929,0,1579628504,"~/nyse-composite-historical-data"
+-'  2929  0  ~/nyse-composite-historical-data
+|4,39,2929,0,1579628504,"~/nyse-composite-historical-data"
+-'  2929  0  ~/nyse-composite-historical-data
+|4,39,2929,0,1579628504,"~/nyse-composite-historical-data"
+-'  2929  0  ~/nyse-composite-historical-data
+|4,39,2929,0,1579628504,"~/nyse-composite-historical-data"
+-'  2929  0  ~/nyse-composite-historical-data
+|4,39,2929,0,1579628504,"~/nyse-composite-historical-data"
+-'  2929  0  ~/nyse-composite-historical-data
+|4,39,2929,0,1579628504,"~/nyse-composite-historical-data"
+-'  2929  0  ~/nyse-composite-historical-data
+|4,39,2929,0,1579628504,"~/nyse-composite-historical-data"
+-'  2929  0  ~/nyse-composite-historical-data
+|4,39,2929,0,1579628504,"~/nyse-composite-historical-data"
+-'  2929  0  ~/nyse-composite-historical-data
+|4,39,2929,0,1579628504,"~/nyse-composite-historical-data"
+-'  2929  0  ~/nyse-composite-historical-data
+|4,39,2929,0,1579628504,"~/nyse-composite-historical-data"
+-'  2929  0  ~/nyse-composite-historical-data
+|4,39,2929,0,1579628504,"~/nyse-composite-historical-data"
+-'  2929  0  ~/nyse-composite-historical-data
+|4,39,2929,0,1579628504,"~/nyse-composite-historical-data"
+-'  2929  0  ~/nyse-composite-historical-data
+|4,39,2929,0,1579628504,"~/nyse-composite-historical-data"
+-'  2929  0  ~/nyse-composite-historical-data
+|4,39,2929,0,1579628504,"~/nyse-composite-historical-data"
+-'  2929  0  ~/nyse-composite-historical-data
+|4,39,2929,0,1579628504,"~/nyse-composite-historical-data"
+-'  2929  0  ~/nyse-composite-historical-data
+|4,39,2929,0,1579628504,"~/nyse-composite-historical-data"
+-'  2929  0  ~/nyse-composite-historical-data
+|4,39,2929,0,1579628504,"~/nyse-composite-historical-data"
+-'  2929  0  ~/nyse-composite-historical-data
+|4,39,2929,0,1579628504,"~/nyse-composite-historical-data"
+-'  2929  0  ~/nyse-composite-historical-data
+|4,39,2929,0,1579628504,"~/nyse-composite-historical-data"
+-'  2929  0  ~/nyse-composite-historical-data
+|4,39,2929,0,1579628504,"~/nyse-composite-historical-data"
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitignore
+	*	1579705381	0
+	"	4	4
+	^	4	5
+	.	4	4
+	+	1	6
+	+	4	4
 
 > ~/playground.sh
 	*	1579636429	0
